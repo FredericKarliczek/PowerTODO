@@ -1,2 +1,3 @@
 # PowerTODO
-Powershell CLI for TODO.txt files
+
+PowerShell CLI for TODO.txt files
